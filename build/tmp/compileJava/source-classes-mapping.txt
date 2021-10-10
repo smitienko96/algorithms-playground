@@ -1,0 +1,8 @@
+com/smitie/sort/InsertionSort.java
+ com.smitie.sort.InsertionSort
+com/smitie/sort/MergeSort.java
+ com.smitie.sort.MergeSort
+com/smitie/sort/BubbleSort.java
+ com.smitie.sort.BubbleSort
+com/smitie/divideandconquer/MaxSubarray.java
+ com.smitie.divideandconquer.MaxSubarray
