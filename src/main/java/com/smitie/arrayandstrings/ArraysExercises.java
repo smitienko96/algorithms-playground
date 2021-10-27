@@ -2,7 +2,7 @@ package com.smitie.arrayandstrings;
 
 import static com.smitie.arrayandstrings.MatrixUtils.printMatrix;
 
-public class Arrays {
+public class ArraysExercises {
 
     public static void main(String[] args) {
         int[][] matrix = {{1, 3, 4, 0, 9}, {6, 0, 8, 1, 4}, {2, 3, 5, 9, 4}, {1, 7, 2, 4, 5}, {7, 9, 6, 2, 3}};
@@ -14,7 +14,7 @@ public class Arrays {
         printMatrix(matrix);
     }
 
-    private Arrays() {
+    private ArraysExercises() {
         throw new AssertionError("Cannot be instantiated");
     }
 
